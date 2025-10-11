@@ -64,16 +64,6 @@ So I prefer to use all the apps which provide web versions with that browser —
 Just give Vanadium network permission only and use the web versions of those.
 Every time you close the browser, cookies are deleted — so they cannot track or fingerprint anything.
 
-## Banking and Payments
-Banking and payment do not work on that OS because they cannot work without Google services.
-So use the web version of your bank for banking and just keep your credit card with you and use it for payments.
-
-## Developer Perspective
-Also, for Android developers, GrapheneOS is an interesting testing environment to test how their apps behave without Google dependencies and under hard app restrictions.
-
-## Network Monitoring
-There is an app named PCAPdroid for monitoring in/out network traffic like Wireshark — for paranoid like me :)
-
 ## VPN and Firewall
 GrapheneOS has an ability named “Block connections without VPN”, so you just put your VPN on “always-on” and even if you forget, you will not get network connection unless you turn it on.
 
@@ -84,3 +74,13 @@ Lets you block per-app IP/DNS traffic without root by routing traffic into a loc
 
 Android’s VPNService gives ability to route all the network traffic through it without having root access.
 So by using those apps, we can do multi-hop and monitor, apply firewall rules (block/filter), and route through VPN.
+
+## Banking and Payments
+Banking and payment do not work on that OS because they cannot work without Google services.
+So use the web version of your bank for banking and just keep your credit card with you and use it for payments.
+
+## Developer Perspective
+Also, for Android developers, GrapheneOS is an interesting testing environment to test how their apps behave without Google dependencies and under hard app restrictions.
+
+## Network Monitoring
+There is an app named PCAPdroid for monitoring in/out network traffic like Wireshark — for paranoid like me :)
