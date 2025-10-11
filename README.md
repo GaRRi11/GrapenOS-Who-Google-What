@@ -62,7 +62,7 @@ It uses DuckDuckGo as search engine and gives ability to turn off JavaScript and
 
 So I prefer to use all the apps which provide web versions with that browser — especially social media apps like Instagram, Facebook, Telegram, etc.
 Just give Vanadium network permission only and use the web versions of those.
-Every time you close the browser, cookies are deleted — so they cannot track or fingerprint anything.
+Every time you close the browser, cookies are deleted.
 
 ## VPN and Firewall
 GrapheneOS has an ability named “Block connections without VPN”, so you just put your VPN on “always-on” and even if you forget, you will not get network connection unless you turn it on.
