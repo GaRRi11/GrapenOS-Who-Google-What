@@ -1,5 +1,8 @@
 It’s never been a secret that our pocket devices are used to listen and watch us 24/7, and track all our actions by governments. But nowadays they do not even try to hide that fact :) They started laughing at us by selling that data to highest bidder profit corporations. We see ads and content on the internet based on the data they collected and analyzed.
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/8e6d43f5-829c-4536-82ed-afe7237972da" />
+
+
 Making your device completely private and untraceable is nearly impossible these days. But there are ways of minimizing it.
 
 They run closed-source blobs (binary files) because it’s impossible to reverse or see what’s inside. That’s the primary weapon of their “magic” :)
