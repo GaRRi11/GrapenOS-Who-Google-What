@@ -1,5 +1,6 @@
 It’s never been a secret that our pocket devices are used to listen and watch us 24/7, and track all our actions by governments. Through secret FISA court orders, agencies have forced tech companies to hand over user data under the label of “national security.” But nowadays they do not even try to hide that fact :) They started laughing at us by selling that data to highest bidder profit corporations. We see ads and content on the internet based on the data they collected and analyzed.
 
+this face as small reminder:
 <img width="1400" height="780" alt="image" src="https://github.com/user-attachments/assets/1a52b44d-2b79-49ec-b57d-e60da0817e8a" />
 
 
